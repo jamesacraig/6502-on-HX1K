@@ -1,0 +1,5 @@
+set_io leds[0] 59
+set_io leds[1] 56
+set_io leds[2] 53
+set_io leds[3] 51
+set_io sys_clk 13
